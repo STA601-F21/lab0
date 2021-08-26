@@ -32,10 +32,10 @@ If you have a StatSci account,
    2) Next change some RStudio preferences. Go to Rstudio -> Preferences -> Sweave and make the following two changes:
     * Select "Sweave Rnw files using Knitr"
     * Set "Preview PDF" with "System Viewer"
-   3) Create a new repo to your account by clicking on the Green Use This Template 
-   4) In your github account, click on the code button to copy the url for the repository
-   5) Create a new Project.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter the  the  Repository URL field, provide a name for the project, e.g. 'lab0', and select a directory to save your work, e.g. Lab0    We suggest that you make a folder for STA601 to save your work for the course.
-  5) On the lower right panel in RStudio, click on the Files tab. You should see a listing of the files in your directory. Click on `lab1.Rnw` to open it in the RStudio editor and then follow instructions there.  
+   3) Create a new repo to your github account by clicking on the Green Use This Template 
+   4) In your github account, click on the code button to clone the repo and copy the url for the repository
+   5) Create a new Project in Rstudio.  In RStudio, click on New Project in the file menu.  Select Version Control, then Git. Enter the  the  Repository URL field, provide a name for the project, e.g. 'lab0', and select a directory to save your work, e.g. Lab0    We suggest that you make a folder for STA601 to save your work for the course.
+  5) On the lower right panel in RStudio, click on the Files tab. You should see a listing of the files in your directory. Click on `lab0.Rnw` to open it in the RStudio editor and then follow instructions there.  
    
   
 
